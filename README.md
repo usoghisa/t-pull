@@ -1,2 +1,2 @@
 # t-pull
-pull
+from g b
